@@ -1,0 +1,2 @@
+java DooBeeDooBeeDo
+cmd /k
